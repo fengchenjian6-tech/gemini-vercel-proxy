@@ -1,0 +1,4 @@
+api/[...path].ts   ← 代理函数
+vercel.json        ← 更新版（保持 CORS 头）
+package.json       ← 新文件
+tsconfig.json      ← 新文件
